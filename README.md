@@ -21,8 +21,3 @@ Python programs:
 - Fibonacci Series
 - Guessing Game
 - etc.
-
-## Technologies Used
-- Python
-- VS Code
-- Git & GitHub
