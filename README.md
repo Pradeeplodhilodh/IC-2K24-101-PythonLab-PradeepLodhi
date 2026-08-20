@@ -22,4 +22,7 @@ Python programs:
 - Guessing Game
 - etc.
 
-
+## Technologies Used
+- Python
+- VS Code
+- Git & GitHub
